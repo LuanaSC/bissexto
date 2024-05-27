@@ -12,9 +12,6 @@ Este é um projeto de um aplicativo desenvolvido no MIT App Inventor que permite
 
 - **MIT App Inventor**: Plataforma de desenvolvimento usada para criar o aplicativo.
 
-## Capturas de Tela
-
-*Insira aqui algumas capturas de tela do aplicativo para demonstrar a interface e a funcionalidade.*
 
 ## Como Usar
 
